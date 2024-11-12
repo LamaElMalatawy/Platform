@@ -1,0 +1,18 @@
+p{
+    font-family: sans-serif;
+}
+
+.bg-beige{
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #d4c7b6;
+}
+
+.bg-white{
+    background-color: white;
+    padding: 20px 36px;
+}
